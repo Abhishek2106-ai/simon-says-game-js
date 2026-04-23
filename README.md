@@ -14,5 +14,3 @@ https://abhishek2106-ai.github.io/simon-says-game-js/
 - HTML
 - CSS
 - JavaScript
-
-- 
